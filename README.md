@@ -1,6 +1,5 @@
 ### Welcome to the Sanders Laboratory Github 👋
 _______________________________________________
-🔭 We currently Strand-seq the world! \
 🌱 We're currently building up our Github repositories - stay tuned! \
 👯 Explore our website for more information at www.sanders.science!
 <!--
