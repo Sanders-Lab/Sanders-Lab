@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Welcome to the Sanders Laboratory Github 👋
+_______________________________________________
+- 🔭 We currently Strand-seq the world!
+- 🌱 We're currently building up our Github repositories - stay tuned!
 <!--
 **Sanders-Lab/Sanders-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
